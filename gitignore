@@ -1,0 +1,7 @@
+.classpath
+.DS_Store
+!.gitignore
+.settings/
+target/
+*.iml
+.idea
